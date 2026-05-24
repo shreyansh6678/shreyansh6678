@@ -30,11 +30,12 @@
 ### 🌦️ Weather App
 🔗 https://weather-app-by-ss.netlify.app/
 
+### ✅ Task Manager
+🔗 https://to-dolist-ss.netlify.app/
+
 ### 💼 Portfolio Website
 🔗 Coming Soon
 
-### ✅ Task Manager
-🔗 Coming Soon
 
 ---
 
