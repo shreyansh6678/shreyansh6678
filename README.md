@@ -42,10 +42,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyansh6678&show_icons=true&theme=tokyonight&border_radius=10" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=shreyansh6678&theme=tokyonight&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyansh6678&show_icons=true&theme=tokyonight" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=shreyansh6678&theme=tokyonight" />
 
 </p>
 
