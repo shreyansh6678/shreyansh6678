@@ -74,11 +74,3 @@
 <p align="center">
   💙 Thanks for visiting my profile
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shreyansh6678/.github/output/github-contribution-grid-snake-dark.svg" />
-</p>
