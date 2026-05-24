@@ -50,11 +50,17 @@
 ---
 
 ## 🧠 Most Used Languages
+## 🧠 Most Used Languages
 
 <p align="center">
- <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shreyansh6678&layout=compact&theme=tokyonight" />
-</p>
 
+<img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/HTML%2FCSS-30%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+</p>
 ---
 
 ## 🌐 Connect With Me
