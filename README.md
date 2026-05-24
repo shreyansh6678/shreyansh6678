@@ -50,7 +50,6 @@
 ---
 
 ## 🧠 Most Used Languages
-## 🧠 Most Used Languages
 
 <p align="center">
 
