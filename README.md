@@ -34,7 +34,7 @@
 🔗 https://to-dolist-ss.netlify.app/
 
 ### 💼 Portfolio Website
-🔗 Coming Soon
+🔗 https://portfolio-shreyansh.netlify.app/
 
 
 ---
