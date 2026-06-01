@@ -27,14 +27,17 @@
 
 ## 🌟 Featured Projects
 
+### 🏥 Healthcare Website
+🔗 https://health-care-by-ss.vercel.app/
+
 ### 🌦️ Weather App
-🔗 https://weather-app-by-ss.netlify.app/
+🔗 https://weather-app-by-ss.vercel.app/
 
 ### ✅ Task Manager
-🔗 https://to-dolist-ss.netlify.app/
+🔗 https://to-do-list-bs-ss.vercel.app/
 
 ### 💼 Portfolio Website
-🔗 https://portfolio-shreyansh.netlify.app/
+🔗 https://portfolio-by-ss.vercel.app/
 
 
 ---
