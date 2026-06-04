@@ -67,7 +67,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyansh678" target="_blank" target="_blank">
+  <a href="https://www.linkedin.com/in/shreyansh678" target="_blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
