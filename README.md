@@ -54,11 +54,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 
-<img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img src="https://img.shields.io/badge/HTML%2FCSS-30%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 </p>
 
