@@ -28,17 +28,16 @@
 ## 🌟 Featured Projects
 
 ### 🏥 Healthcare Website
-🔗 https://health-care-by-ss.vercel.app/
-
-### 🌦️ Weather App
-🔗 https://weather-app-by-ss.vercel.app/
-
-### ✅ Task Manager
-🔗 https://to-do-list-bs-ss.vercel.app/
+🔗 https://healthcare-ss.vercel.app
 
 ### 💼 Portfolio Website
 🔗 https://portfolio-by-ss.vercel.app/
 
+### ✅ Task Manager
+🔗 https://to-do-list-bs-ss.vercel.app/
+
+### 🌦️ Weather App
+🔗 https://weather-app-by-ss.vercel.app/
 
 ---
 
