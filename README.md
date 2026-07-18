@@ -1,78 +1,129 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Sharma</h1>
 
-<h3 align="center">Frontend Developer • React Developer • Creative Coder • UI Engineer </h3>
+<h3 align="center">
+Full Stack Developer • MERN Stack • React.js • Node.js • MongoDB
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Learner;Building+Modern+Websites" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🌱 Currently learning **React & Advanced JavaScript**
-- 💻 Building modern frontend projects
-- ⚡ Love responsive UI & animations
-- 🎯 Goal: Become a professional frontend engineer
+- 🎓 Bachelor of Computer Applications (BCA)
+- 💻 Passionate about building scalable full-stack web applications
+- 🌱 Currently improving my DSA and backend development skills
+- ⚡ Love creating responsive UIs and REST APIs
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 🏥 Healthcare Website
-🔗 https://healthcare-ss.vercel.app
+### 🛒 E-Commerce Platform
+- MERN Stack
+- JWT Authentication
+- Product Management
+- Shopping Cart
+- Wishlist
+- Orders
+- Admin Dashboard
+
+---
+
+### 🏥 Healthcare Management System
+🔗 https://health-care-by-ss.vercel.app/
+
+- Authentication
+- Doctor Listing
+- Appointment Booking
+- User Dashboard
+- Responsive UI
+
+---
 
 ### 💼 Portfolio Website
-🔗 https://portfolio-by-ss.vercel.app/
+🔗 https://portfolio-shreyansh.netlify.app/
 
-### ✅ Task Manager
-🔗 https://to-do-list-bs-ss.vercel.app/
+---
 
 ### 🌦️ Weather App
-🔗 https://weather-app-by-ss.vercel.app/
+🔗 https://weather-app-by-ss.netlify.app/
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh6678&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreyansh6678&show_icons=true&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh6678&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh6678&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
 
-## 🧠 Most Used Languages
+# 📈 Coding Profiles
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<img src="https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
+</a>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyansh678" target="_blank" >
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+
+<a href="https://www.linkedin.com/in/shreyansh678">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/shreyansh6678">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  💙 Thanks for visiting my profile
+
+⭐ If you like my work, consider giving my repositories a star!
+
 </p>
