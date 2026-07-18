@@ -45,6 +45,7 @@ Full Stack Developer • MERN Stack • React.js • Node.js • MongoDB
 # 🌟 Featured Projects
 
 ### 🛒 E-Commerce Platform
+🔗 https://novacart-ss.vercel.app/
 - MERN Stack
 - JWT Authentication
 - Product Management
@@ -56,7 +57,7 @@ Full Stack Developer • MERN Stack • React.js • Node.js • MongoDB
 ---
 
 ### 🏥 Healthcare Management System
-🔗 https://health-care-by-ss.vercel.app/
+🔗 https://healthcare-ss.vercel.app
 
 - Authentication
 - Doctor Listing
@@ -67,12 +68,12 @@ Full Stack Developer • MERN Stack • React.js • Node.js • MongoDB
 ---
 
 ### 💼 Portfolio Website
-🔗 https://portfolio-shreyansh.netlify.app/
+🔗 https://portfolio-by-ss.vercel.app/
 
 ---
 
 ### 🌦️ Weather App
-🔗 https://weather-app-by-ss.netlify.app/
+🔗 https://weather-app-by-ss.vercel.app/
 
 ---
 
