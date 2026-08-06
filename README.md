@@ -99,7 +99,7 @@ Full Stack Developer • MERN Stack • React.js • Node.js • MongoDB
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/shreyansh678">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
