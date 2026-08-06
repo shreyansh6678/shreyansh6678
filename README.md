@@ -89,7 +89,7 @@ Full Stack Developer • MERN Stack • React.js • Node.js • MongoDB
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh6678&layout=compact&theme=tokyonight" />
+<!-- <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh6678&layout=compact&theme=tokyonight" /> -->
 
 </p>
 
